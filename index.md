@@ -1,7 +1,10 @@
 ## 欢迎来到红衣男孩的笔记本
 
-Github：
-https://github.com/tooyoungtoosimple999
+### 当前施工项目：
+1.计算理论笔记
 
-blog：
-https://tooyoungtoosimple999.github.io
+2.力扣和牛客刷题笔记
+
+3.关于github和git的操作备忘 
+
+
